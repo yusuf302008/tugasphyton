@@ -1,0 +1,9 @@
+print("\n--- Pertarungan Dimulai ---")
+hero1.serang(hero2) # Layla menyerang Zilong
+hero2.serang(hero1) # Zilong membalas
+
+--- Pertarungan Dimulai ---
+Layla menyerang Zilong!
+Zilong terkena damage 15. Sisa HP: 105
+Zilong menyerang Layla!
+Layla terkena damage 20. Sisa HP: 480
